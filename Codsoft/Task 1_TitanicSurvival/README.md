@@ -30,11 +30,3 @@ This project uses the Titanic dataset to predict passenger survival using machin
 2. Run the notebook:  
    `jupyter notebook Task1_TitanicSurvival.ipynb`
 
-## 📁 Files
-
-- `Task1_TitanicSurvival.ipynb` – Main notebook
-- `train.csv` – Dataset (if included)
-
-## 📚 Source
-
-- [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic)
